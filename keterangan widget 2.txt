@@ -3,3 +3,6 @@
 3. widget label untuk menyapa pengguna dari google chrome.
 4. widget text field untuk objektifitas harian.
 5. widget weather dan lokasi untuk menginformasikan cuaca dan lokasi.
+6. widget todo untuk menampilkan reminder apa yang akan di lakukan
+7. widget setting, untuk setting keperluan yang dibutuhkan pengguna
+8. widget quotes
