@@ -1,0 +1,10 @@
+widget berdasarkan fungsi umum
+
+1. widget username label, berfungsi menampilkan nama pada akun google
+2. widget links, untuk menuju halaman yang tertentu atau fungsi tertentu
+3. widget icon drop down, untuk memunculkan aplikasi yang ada di dalam google
+4. widget icon notifications, untuk memunculkan notifikasi pada user google 
+5. widget avatar, berfungsi untuk menampilkan picture pada profile google
+6. widget search box, berfungsi untuk input text dan pencarian di google 
+7. widget icon tombol voice search, untuk pencarian data menggunakan suara
+8. widget button search dan filling lucky, berfungsi untuk aksi pencarian data
